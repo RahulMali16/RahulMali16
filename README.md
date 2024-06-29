@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAHUL MALI</h1>
-<h3 align="center">A passionate lE from India</h3>
+<h3 align="center">A passionate learner and an Undergraduate Student from NIT Bhopal..!!</h3>
 
 <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" alt="coding" align="right" width="400"/>
 
